@@ -1,0 +1,5 @@
+ad= input("Adınızı giriniz: ")
+soyad= input("Soyadınızı giriniz: ")
+numara= input("Sepette numaran kadar elma var. Kaç elma var ?: ")
+ay= input("Burcunu biliyor musun aşko? Hangiğ ayda doğdunu söylesene bir şeye bakıcam: ")
+print(ad + "\n"+soyad + "\n"+ numara + "\n"+ ay)
