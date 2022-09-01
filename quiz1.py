@@ -1,4 +1,5 @@
 print("Uşağum ha puraya sayuları cir pakayım")
+#ilk-commit
 x = int(input("1.sayıyı giriniz: "))
 y = int(input("2.sayıyı giriniz: "))
 z = int(input("3.sayıyı giriniz: "))
