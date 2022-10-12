@@ -11,11 +11,18 @@ if geosekil == dortgen :
         print("Bu bir kare")
     else: 
         print("Bu bir dörtgen")
-elif geosekil == ucgen:
+elif geosekil == ucgen 
  a=int(input("a giriniz:"))
  b=int(input("b giriniz:"))
  c=int(input("c giriniz:"))
- if (a==b) and (b==c):
+ if a+b>=c and b+c>=a and c+a>=b:
+  print("Üçgen oluşabilir")
+  elif (a==b) and (b==c):
    print("Bu bir eşkenar")
- elif (a==b) and (a!=c):
-     print("Bu ikizkenar")
+   elif (a==b) and (a!=c):
+   print("Bu ikizkenar")
+   elif (a!=b) and (b!=c):
+  print("Bu normal üçgen")
+else:
+  print("üçgen oluşamaz.")   
+  #asdfghj
