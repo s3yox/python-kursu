@@ -31,3 +31,4 @@ elif secim == 4:
     print("İşleminizin sonucu= ",divide(num1,num2))
 else:
     print("Böyle bir işlem seçeneği yoktur.")
+    #2

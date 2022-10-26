@@ -11,7 +11,7 @@ def is_prime(sayi1):
         else:  
             print (number)  
 is_prime(sayi1)
-#ÇALIŞTIRAMADIM
+#ÇALIŞTIRAMADIM3
 
 
 
