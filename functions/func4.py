@@ -11,4 +11,5 @@ def ebob_bul(sayi1,sayi2):
     return 1
 sayi1=int(input("ilk sayıyı girin: "))
 sayi2=int(input("ikinci sayıyı girin: "))
-print("ebob =",ebob_bul(sayi1,sayi2))             
+print("ebob =",ebob_bul(sayi1,sayi2))   
+#4          

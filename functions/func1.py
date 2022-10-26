@@ -7,3 +7,4 @@ def tamBolenleribul(sayi):
     return tambolenler
 
 print(tamBolenleribul(20))
+#1
