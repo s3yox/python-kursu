@@ -1,3 +1,4 @@
+
 sayi1=int(input("Sayıyı girin: "))
 
 def is_prime(sayi1):
@@ -11,6 +12,7 @@ def is_prime(sayi1):
             print (number)  
 is_prime(sayi1)
 #ÇALIŞTIRAMADIM
+
 
 
 
